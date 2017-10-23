@@ -1,0 +1,28 @@
+{
+  "name": "@matusmarcin/graphql-intro",
+  "version": "1.0.0",
+  "description": "A meetup talk on GraphQL.",
+  "main": "index.js",
+  "scripts": {
+    "start": "reveal-md slides.md --theme moon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matusmarcin/graphql-intro.git"
+  },
+  "keywords": [
+    "graphql",
+    "meetup",
+    "javascript"
+  ],
+  "author": "Matus Marcin <matus.marcin@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matusmarcin/graphql-intro/issues"
+  },
+  "homepage": "https://github.com/matusmarcin/graphql-intro#readme",
+  "dependencies": {
+    "reveal-md": "^0.4.3"
+  }
+}
