@@ -6,8 +6,8 @@ This is a meetup talk by me. If you’re attending the meetup, good for you. If 
 > To view the slides:
 
 ```
-npm i reveal-md -g
-reveal-md slides.md
+npm install
+npm start
 ```
 
 In the end this is a fairly simple example of how GraphQL server can be built on top of REST API and used in a client React.js app. It is accompanied by four other repos. In the hindsight, I could’ve just used folders inside of one repo but I also wanted examples that would make sense as a standalone tiny projects.
@@ -339,7 +339,7 @@ I have created a structure where messages are read based on user’s first name 
 	- john.txt
 ```
 
-Resolver is slightly modified. And you can image (or look in the [repo](https://github.com/matusmarcin/graphql-express-example/tree/5-messages) to see) how the `getUserMessageFromFile()` might look.
+Resolver is slightly modified. And you can imagine (or look in the [repo](https://github.com/matusmarcin/graphql-express-example/tree/5-messages) to see) how the `getUserMessageFromFile()` might look.
 
 ```javascript
 const UserType = new GraphQLObjectType({
@@ -725,4 +725,4 @@ I was too lazy to clean up what I’ve found so… Enjoy!
 
 ### Special special bonus
 
-Our [Fabio spoke on GraphQL at React London Meetup in 2016](https://youtu.be/HrECWxWVcEI?t=59m5s), when he was building it for The Economist.
+Our [Fabio spoke on GraphQL at React London Meetup in 2016](https://youtu.be/HrECWxWVcEI?t=59m5s), when we were building it for The Economist.
