@@ -10,6 +10,8 @@ npm install
 npm start
 ```
 
+> Or go here: [matusmarcin.com/graphql/](https://www.matusmarcin.com/graphql/)
+
 In the end this is a fairly simple example of how GraphQL server can be built on top of REST API and used in a client React.js app. It is accompanied by four other repos. In the hindsight, I could’ve just used folders inside of one repo but I also wanted examples that would make sense as a standalone tiny projects.
 
 * [GraphQL Hello World example](https://github.com/matusmarcin/graphql-hello-world)
