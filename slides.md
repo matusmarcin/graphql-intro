@@ -445,7 +445,7 @@ Note: I will go and make this a little more practical allowing us to specify a m
 ```
 
 * Resolver is slightly modified.
-* You can image (or look in the [repo](https://github.com/matusmarcin/graphql-express-example/tree/5-messages) to see) how the `getUserMessageFromFile()` might look.
+* You can imagine (or look in the [repo](https://github.com/matusmarcin/graphql-express-example/tree/5-messages) to see) how the `getUserMessageFromFile()` might look.
 
 ---
 
@@ -921,4 +921,4 @@ I was too lazy to clean up what I’ve found so… Enjoy!
 
 ### Special special bonus
 
-Our [Fabio spoke on GraphQL at React London Meetup in 2016](https://youtu.be/HrECWxWVcEI?t=59m5s), when he was building it for The Economist.
+Our [Fabio spoke on GraphQL at React London Meetup in 2016](https://youtu.be/HrECWxWVcEI?t=59m5s), when we were building it for The Economist.
