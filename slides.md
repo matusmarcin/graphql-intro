@@ -1,9 +1,7 @@
-<!-- .slide: data-background="intro-slide.png" -->
-
----
-
 # Intro to GraphQL
 Hello and welcome 👋 
+
+My name is Matúš Marcin
 
 ---
 
