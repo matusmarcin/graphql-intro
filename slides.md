@@ -1,7 +1,7 @@
 # Intro to GraphQL
 Hello and welcome 👋 
 
-My name is Matúš Marcin
+My name is **Matúš Marcin**
 
 ---
 
@@ -873,7 +873,10 @@ Note: We can execute the query above and rejoice from updated messages.
 ## Stay in touch
 
 `/matus\.marcin@gmail\.com/` 
-[@faster](https://twitter.com/faster)  or [github.com/matusmarcin](https://github.com/matusmarcin).
+
+[@faster](https://twitter.com/faster) or [github.com/matusmarcin](https://github.com/matusmarcin)
+
+[matusmarcin.com](https://www.matusmarcin.com)
 
 Thank you.
 
