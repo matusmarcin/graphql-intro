@@ -860,23 +860,6 @@ Note: We can execute the query above and rejoice from updated messages.
 
 ---
 
-### Bonus for live attendees
-
-* Connect to my GraphQL server (I'll share a link)
-* Execute a mutation to change a user message
-* Keep in PG-13
-* We'll see it in the app!
-
-Note: If you’re here and now (at the meetup) you can connect to my GraphQL server and update a message on a user you want. 
-
-I’ll share a link with the query included so you don’t have to type much.
-
-We can watch the messages update in our client app.
-
-Have fun!
-
----
-
 ## That’s all.
 👏
 
@@ -889,7 +872,7 @@ Have fun!
 
 ## Stay in touch
 
-`/matus\.marcin@(gmail|globallogic)\.com/` 
+`/matus\.marcin@gmail\.com/` 
 [@faster](https://twitter.com/faster)  or [github.com/matusmarcin](https://github.com/matusmarcin).
 
 Thank you.
@@ -919,4 +902,4 @@ I was too lazy to clean up what I’ve found so… Enjoy!
 
 ### Special special bonus
 
-Our [Fabio spoke on GraphQL at React London Meetup in 2016](https://youtu.be/HrECWxWVcEI?t=59m5s), when we were building it for The Economist.
+[Fabio spoke on GraphQL at React London Meetup in 2016](https://youtu.be/HrECWxWVcEI?t=59m5s), when he was building it for The Economist.
