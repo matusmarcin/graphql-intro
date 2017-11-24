@@ -6,7 +6,7 @@
   "scripts": {
     "start": "reveal-md slides.md --theme moon",
     "start:devfest": "reveal-md devfest-slides.md --theme moon",
-    "static": "reveal-md devfest-slides.md --theme moon --static ./",
+    "static": "reveal-md slides.md --theme moon --static ./",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
